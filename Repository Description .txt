@@ -1,0 +1,8 @@
+This is a repository about teh Flask Framework. This is about using simple MVC architecture (Model View Controller) to be able to build websites.
+The project theme is - Bite Byte Universe
+
+Bite Byte Universe is one of my portoflio projects. It mainly revolves around Food eCommerce and other eCommerce services.
+Bite Byte Universe is about building an entire portfolio about the several projects that are directly powered by BiteByte Universe a technology company (Bite Byte is completely fictional)
+It has its own themes and several enterprises built inside the Bite Byte Universe
+
+Bite Byte Universe
