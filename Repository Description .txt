@@ -1,4 +1,4 @@
-This is a repository about teh Flask Framework. This is about using simple MVC architecture (Model View Controller) to be able to build websites.
+This is a repository about the Flask Framework. This is about using simple MVC architecture (Model View Controller) to be able to build websites.
 The project theme is - Bite Byte Universe
 
 Bite Byte Universe is one of my portoflio projects. It mainly revolves around Food eCommerce and other eCommerce services.
